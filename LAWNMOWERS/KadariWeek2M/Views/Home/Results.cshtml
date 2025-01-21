@@ -1,0 +1,25 @@
+﻿@using KadariWeek2M.Models
+@*
+    created by Kadari
+*@
+@model LawnMowersmodel
+<!doctype html>
+<html>
+    <head>
+        <!--created by akshaya-->
+        <title> Kadari Lawn moving</title>
+        <meta name="viewport" content="width=device-width"/>
+        <meta charset="utf-8 " >
+
+    </head>
+    <body>
+        <h1> kadari lawn mover services</h1>
+        <h3> binding models</h3>
+        @*display the results by accessing the properties using @models*@
+        <h4>Quote for @Model.Name</h4>
+        <p> total area to mowed: @Model.Area</p>
+        <p> number of weeks: @Model.NumWeeks</p>
+        <p>AMount quoted for lawning:@Model.Quote.ToString("n2")</p>
+    </body>
+</html>
+

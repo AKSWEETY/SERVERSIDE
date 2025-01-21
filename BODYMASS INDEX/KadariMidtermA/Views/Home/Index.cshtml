@@ -1,0 +1,59 @@
+﻿@*created by kadari*@
+
+@model BodyMass
+<!doctype html>
+    <head>
+        <title>Kadari Midterm</title>
+        <meta charset="utf-8" />
+        <link href="~/css/" />
+        </head>
+    <body>
+        @*index view for body mass*@
+        <h1>Kadari Midterm</h1>
+        <h2> Body Mass Index</h2>
+        <p>Please enter height weight and other details</p>
+        @*form with post method*@
+        <form asp-action="BMI" asp-controller="Home" method="post">
+        @*input for Name field textbox*@
+            <p>
+                <label asp-for="Name"></label>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name"></span>
+            </p>
+
+        @*select tag for selection of gender*@
+
+            <p>
+                <label asp-for="Genderlist"></label>
+                <select asp-for="Gender" asp-items="@Model.Genderlist"></select>
+                
+
+            </p>
+        @*number text box for weight*@
+            <p>
+                <label asp-for="Weight"></label>
+                <input asp-for="Weight" />
+                <span asp-validation-for="Weight"></span>
+            </p>
+        @*number text box for height*@
+            <p>
+                    <label asp-for="Height"></label>
+                    <input asp-for="Height" />
+                    <span asp-validation-for="Height"></span>
+            </p>
+        @*checkbox for select the credit details*@
+            <p>
+                <label asp-for="Credit"></label>
+                <input asp-for="Credit" />
+                <span asp-validation-for="Credit"></span>
+            </p>
+        @*submit button*@
+            <p>
+                <button type="submit">Submit</button>
+            </p>
+        </form>
+
+    </body>
+</html>
+
+

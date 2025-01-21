@@ -1,0 +1,32 @@
+﻿@using KadariWeek2M.Models
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+@* reference the lawnmower*@
+@model LawnMowersmodel
+<h1> kadari lawn mowers</h1>
+<p> eneter data for quotes</p>
+<p>
+    <form asp-action="Index" asp-controller="Home" method="post">
+    <p> <label asp-for ="Name"> Enter NAME:</label>
+        <input asp-formaction="Name"/>
+        <span asp-validation-for ="Name"></span>    
+    </p>
+        <p>
+            <label asp-for="Area"> Enter area in square feet:</label>
+            <input asp-formaction="Area" />
+            <span asp-validation-for="Area"></span>
+        </p>
+        <p>
+            <label asp-for="NumWeeks"> Enter number of weeks:</label>
+            <input asp-formaction="NumWeeks" />
+            <span asp-validation-for="NumWeeks"></span>
+        </p>
+        <p>
+            <input type="submit" />
+        </p>
+    </form>
+    
+</p>

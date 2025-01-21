@@ -1,0 +1,27 @@
+﻿@*
+    created by kadari
+*@
+@model BodyMass
+<!doctype html>
+    <head>
+        <title>BMI Results</title>
+        <meta charset="utf-8" /> 
+    </head>
+    <body>
+        <h2>BMI Results</h2>
+        <p>Name:@Model.Name</p>
+        <p>Gender:@Model.Gender</p>
+        <p>BMI:@Model.Bodymass</p>
+        <p>BMI Results:@Model.Result</p>
+    @{
+        @* when the checkbox is checked displays the below details by checking the condition in the model*@
+        if (Model.Credit)
+        {
+            <h2>Credits</h2>
+            <p>Createdby:@Model.Namecreated</p>
+            <p>Createdby: @Model.Studentid</p>
+        }
+        }
+
+    </body>
+</html>

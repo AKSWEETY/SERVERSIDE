@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadariweek2m\\kadariweek2m\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|solutionrelative:kadariweek2m\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadariweek2m\\kadariweek2m\\models\\lawnmowersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|solutionrelative:kadariweek2m\\models\\lawnmowersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadariweek2m\\kadariweek2m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|solutionrelative:kadariweek2m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadariweek2m\\kadariweek2m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3C23BF-776B-4C42-A6C0-139AFC78D498}|KadariWeek2M\\KadariWeek2M.csproj|solutionrelative:kadariweek2m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Views\\Home\\Results.cshtml",
+              "RelativeDocumentMoniker": "KadariWeek2M\\Views\\Home\\Results.cshtml",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Views\\Home\\Results.cshtml",
+              "RelativeToolTip": "KadariWeek2M\\Views\\Home\\Results.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:01:03.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KadariWeek2M\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KadariWeek2M\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:51:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LawnMowersmodel.cs",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Models\\LawnMowersmodel.cs",
+              "RelativeDocumentMoniker": "KadariWeek2M\\Models\\LawnMowersmodel.cs",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Models\\LawnMowersmodel.cs",
+              "RelativeToolTip": "KadariWeek2M\\Models\\LawnMowersmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:30:16.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KadariWeek2M\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariWeek2M\\KadariWeek2M\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KadariWeek2M\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:28:25.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

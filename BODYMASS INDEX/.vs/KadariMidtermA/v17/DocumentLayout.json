@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadarimidterma\\kadarimidterma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|solutionrelative:kadarimidterma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadarimidterma\\kadarimidterma\\views\\home\\bmi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|solutionrelative:kadarimidterma\\views\\home\\bmi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadarimidterma\\kadarimidterma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|solutionrelative:kadarimidterma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|c:\\users\\kadar\\onedrive\\desktop\\akshayaserver\\kadarimidterma\\kadarimidterma\\models\\bodymass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E49F4-F168-4A44-B09B-E83CDA3F9406}|KadariMidtermA\\KadariMidtermA.csproj|solutionrelative:kadarimidterma\\models\\bodymass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KadariMidtermA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KadariMidtermA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:52:00.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMI.cshtml",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Views\\Home\\BMI.cshtml",
+              "RelativeDocumentMoniker": "KadariMidtermA\\Views\\Home\\BMI.cshtml",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Views\\Home\\BMI.cshtml",
+              "RelativeToolTip": "KadariMidtermA\\Views\\Home\\BMI.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T14:24:03.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KadariMidtermA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KadariMidtermA\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:23:07.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BodyMass.cs",
+              "DocumentMoniker": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Models\\BodyMass.cs",
+              "RelativeDocumentMoniker": "KadariMidtermA\\Models\\BodyMass.cs",
+              "ToolTip": "C:\\Users\\kadar\\OneDrive\\Desktop\\akshayaserver\\KadariMidtermA\\KadariMidtermA\\Models\\BodyMass.cs",
+              "RelativeToolTip": "KadariMidtermA\\Models\\BodyMass.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:22:47.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
